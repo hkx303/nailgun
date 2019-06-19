@@ -426,6 +426,7 @@ class PathTestCase(TestCase):
                 (entities.HostGroup, 'rebuild_config'),
                 (entities.Organization, 'products'),
                 (entities.Organization, 'self'),
+                (entities.HostGroup, 'rebuild_config'),
                 (entities.Organization, 'subscriptions'),
                 (entities.Organization, 'download_debug_certificate'),
                 (entities.Organization, 'subscriptions/delete_manifest'),
